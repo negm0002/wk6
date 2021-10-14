@@ -1,0 +1,40 @@
+/* CSS file for week 6 class example */
+
+body{
+    background-color: red;
+    font-size: 22px;
+}
+
+/* use a class to target an element with a . */
+.sizing{
+    /* border is a shorthand that requires three properties: size, colour, and type */
+    border: 5px purple solid
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.using-em{
+    /* EM is based on the font size of the element's parent - in this case the parent of this span
+    is the div 
+}
+
+
+
+
+
+
+
